@@ -1,0 +1,64 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Robert Jones | Designer </title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link href='http://fonts.googleapis.com/css?family=Changa+One|Open+Sans:400italic,700italic,400,700,800|Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <header>
+        <a href="index.html" id="logo">
+          <h1>Co Managers Unite</h1>
+          <h2>The Co Managers' Toolkit for Success!</h2>
+       </a> 
+       <nav> 
+       <ul> 
+          <li><a href="index.html" class="selected">Portfolio</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+      </ul>
+      </nav>
+      </header>
+    <div id="wrapper">
+      <section>
+        <ul id="gallery"> 
+          <li>
+           <a href="img/numbers-01.jpg">
+              <img src="img/Cos.jpg" alt="">
+              <p>Uplift</p>
+           </a>
+          </li>
+		             <li>
+           <a href="img/numbers-06.jpg">
+              <img src="img/3a.jpg" alt="">
+              <p>3 A's</p>
+           </a>
+          </li>
+           <li>
+           <a href="img/numbers-02.jpg">
+              <img src="img/IMG_0400.jpg" alt="">
+              <p>Customer First</p>
+           </a>
+          </li>
+           <li>
+           <a href="img/numbers-09.jpg">
+              <img src="img/IMG_03851.jpg" alt="">
+              <p>Safety</p>
+           </a>
+          </li>
+           
+             </ul>
+      </section>
+      <footer>
+        <a href="http://twitter.com/RobJones"><img src="img/twitter-wrap.png" alt="Twitter Logo" class="social-icon"></a>
+       
+        <a href="http://facebook.com/RobJones"><img src="img/facebook-wrap.png" alt="Facebook Logo" class="social-icon"></a>
+      <p>&copy; 2015 Robert Jones.</p>
+      </footer>
+   </div> 
+  </body>
+</html>
